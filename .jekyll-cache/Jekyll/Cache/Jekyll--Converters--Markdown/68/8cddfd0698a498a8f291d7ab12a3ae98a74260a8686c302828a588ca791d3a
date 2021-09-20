@@ -1,0 +1,315 @@
+I"Q@<h1 id="web-front-end-foundations">Web Front-End Foundations</h1>
+
+<h2 id="general-course-information">General Course Information:</h2>
+
+<ul>
+  <li>Instructor: Daniel Deverell</li>
+  <li>Email: daniel.deverell@nyu.edu</li>
+  <li>Course Number: Web Front- End I: Foundations/INFO1-CE9764.001</li>
+  <li>Semester: Fall 2021</li>
+  <li>Dates: Tuesday and Thursday</li>
+  <li>3.5 CEUs</li>
+  <li>Class meeting location: Zoom</li>
+  <li>Office Hours: 10 am to 5pm EST Monday through Friday. Request an appointment via email.</li>
+</ul>
+
+<h2 id="course-description">Course Description</h2>
+
+<p>This rigorous, hands-on introduction to web design advances your development skills by showing you how standards-based HTML5, CSS, and JavaScript work together to create the modern web. Gain an introduction to techniques such as responsive design, progressive enhancement, and unobtrusive scripting that ensure superior results in all browsers—desktop, mobile, and app. Examine visual design and typography, and explore how to use Git for versioning and work groups, text editors (focusing on Sublime Text), CSS preprocessors, and contemporary frameworks such as Bootstrap.</p>
+
+<h3 id="youll-walk-away-with">You’ll Walk Away with</h3>
+
+<ul>
+  <li>The tools and practical knowledge necessary to build visually rich, interactive web applications</li>
+  <li>The skills to create easy-to-maintain, hand-crafted sites using a static site generator</li>
+</ul>
+
+<h3 id="course-prerequisites">Course Prerequisites</h3>
+
+<p>An introduction to HTML is sufficient as a prerequisite although students can take the class with no prior knowledge of HTML, CSS or JavaScript. Basic fluency with the operating system of choice and with browsers is expected.</p>
+
+<h3 id="course-structuremethod">Course Structure/Method</h3>
+
+<p>This Class is given online via Zoom and meets twice weekly. Students should be prepared to use their own computer. Assignments will be given weekly and are documented in the course notes made available at each of the sessions.</p>
+
+<h3 id="course-learning-outcomes">Course Learning Outcomes:</h3>
+
+<p>By the end of this course, students will be able to create a semantically sound web page format that web page with Cascading Style Sheets, and add behaviors to it using JavaScript. Students will be able to deploy a multi-page static website on Netlify using Eleventy.</p>
+
+<h3 id="communication-policy">Communication Policy</h3>
+
+<p>Students should use my NYU email address - daniel.deverell@nyu.edu - for all communications. Responses will be received within 24 hours or one working day. Office Hours: 10 am to 5pm EST Monday through Friday. Request an appointment via email or on the class Slack channel.</p>
+
+<h3 id="course-expectations">Course Expectations</h3>
+
+<p>Attendance is key to achieving a successful outcome. Readings and homework will be assigned and are not mandatory but important to get the most from the class. Additionally, students must complete two assignments:</p>
+
+<h4 id="midterm">Midterm</h4>
+
+<p>For the midterm you will translate an image provided by the instructor into an HTML page and style it using CSS. This will be due on the 6th class.</p>
+
+<h4 id="final-project">Final Project</h4>
+
+<p>This project will be a series of web pages that incorporate CSS and JavaScript, deployed to Netlify via Github and developed using the static site generation concepts discussed in class. The project is due on the last day of classes.</p>
+
+<h3 id="classroom-expectations">Classroom Expectations:</h3>
+
+<p>As continuing education students, you are expected to conduct yourselves in a professional manner and engage and collaborate with your classmates in the Zoom meeting room. Here are our guiding principles:</p>
+
+<ul>
+  <li>Dress as if you are in the classroom.</li>
+  <li>Keep your microphone muted unless asking a question or engaging in discussion.</li>
+  <li>Check your video and audio when entering your class session.</li>
+  <li>Minimize distractions which appear in the background around you.</li>
+  <li>Look into the camera instead of looking at the screen.</li>
+  <li>Type quietly, mute if necessary.</li>
+  <li>Don’t eat during a Zoom class session and refrain from engaging in any activity such as smoking, consuming alcohol, etc. that you would not engage in if the class were in person.</li>
+</ul>
+
+<p>SPS classrooms are diverse and include students who range in age, culture, learning styles, and levels of professional experience. To maintain an inclusive environment that ensures all students can equally participate with and learn from each other, as well as receive feedback and instruction from faculty during group discussions in the classroom, all course-based discussions and group projects should occur in a language that is shared among all participants</p>
+
+<h2 id="technology-policy">Technology Policy:</h2>
+
+<p>All class sessions require use of Zoom.</p>
+
+<h2 id="provided-material">Provided Material</h2>
+
+<p>The Github directory for this class is at https://github.com/front-end-foundations</p>
+
+<h2 id="assessment-strategy">Assessment Strategy</h2>
+
+<p>What ultimately matters in this course is not so much where you end up relative to your classmates but where you end up relative to yourself when you began.</p>
+
+<p>Final project 50%
+Midterm: 50%</p>
+
+<p>Due to the nature of the subject material the contents of this syllabus are subject to change.</p>
+
+<p>For SPS non-degree grading policies see: https://www.sps.nyu.edu/homepage/student-experience/policies-and-procedures.html</p>
+
+<p>Late assignments are permitted with permission of the instructor.</p>
+
+<p>Absences and/or tardiness may have a negative impact on a student’s final grade.</p>
+
+<p>Grading scale:
+Points earned in each category are added up to determine each student’s numerical grade.</p>
+
+<p>A: 95-100
+A-: 90-94
+B+: 87-89
+B: 83-86
+B-: 80-82
+C+: 77-79
+C: 73-76
+C-: 70-72
+F: Below 70</p>
+
+<h2 id="nyusps-policies">NYUSPS Policies:</h2>
+
+<p>School Grading Policies:</p>
+
+<h3 id="nyusps-career-advancement-non-degree">NYUSPS Career Advancement (non-degree)</h3>
+
+<p>https://www.sps.nyu.edu/homepage/student-experience/policies-and-procedures.html</p>
+
+<h3 id="center-for-student-accessibility">Center for Student Accessibility</h3>
+
+<p>If you are a student who is requesting accommodations, please contact New York University’s Moses Center for Students Accessibility (CSA) at 212-998-4980 or mosescsa@nyu.edu. You must be registered with CSA to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csa. The Moses Center is located at 726 Broadway on the 3rd floor.</p>
+
+<h3 id="timeliness">Timeliness:</h3>
+
+<p>Assignments are due according to the posted dates and as described in the instructions, either submitted via the assignment Dropbox or posted in a designated discussion forum. Unless otherwise noted, grades will be posted in the online gradebook no later than the end of the week following the due date of the assignment. This university maintains a strict academic integrity policy. Please follow this link to read the policy related to plagiarism.</p>
+
+<h3 id="academic-integrity-and-plagiarism-policy">Academic Integrity and Plagiarism Policy:</h3>
+
+<p>All students are expected to be honest and ethical in all academic work. This trust is shared among all members of the University community and is a core principle of American higher education. Any breaches of this trust will be taken seriously. A hallmark of the educated student and good scholarship is the ability to acknowledge information derived from others. Students are expected to be scrupulous in crediting those sources that have contributed to the development of their ideas.</p>
+
+<p>Plagiarism involves borrowing or using information from other sources without proper and full credit. Students are expected to demonstrate how what they have learned incorporates an understanding of the research and expertise of scholars and other appropriate experts; and thus recognizing others’ published work or teachings—whether that of authors, lecturers, or one’s peers—is a required practice in all academic projects. Students are subject to disciplinary actions for the following offenses which include but are not limited to:</p>
+
+<ul>
+  <li>Cheating</li>
+  <li>Plagiarism</li>
+  <li>Forgery or unauthorized use of documents</li>
+  <li>False form of identification</li>
+</ul>
+
+<p>Use the link below to read more about Academic Integrity Policies at the NYU School of Professional Studies. Academic Policies for NYU SPS Students</p>
+
+<h2 id="course-outline">Course Outline</h2>
+
+<h3 id="session-one">Session One</h3>
+
+<h4 id="objectives">Objectives</h4>
+
+<p>Understand the basic principles of semantic HTML and the evolution of web development by updating a table-based layout to a standards-based layout. This session will cover:</p>
+
+<ul>
+  <li>The concept of separation of content, presentation and behavior</li>
+  <li>Understanding and using the Web Developer tools in Chrome and Safari</li>
+  <li>HTML structural and semantic tagging</li>
+  <li>The anatomy of a CSS rule, formatting, and basic CSS for layout</li>
+  <li>The CSS box model</li>
+</ul>
+
+<h5 id="assignment">Assignment</h5>
+
+<p>Download Sublime text and install Package Control on your computer
+Install Emmet into Sublime text using Package Control
+Download the files as distributed in class from Github and, using the notes below, try to recreate the design we did in class from scratch
+Examine the provided homework samples (in the homework samples folder) in Chrome’s developer tools. Pick two or three visual formatting features that appeal to you and try to apply them to your page. Be sure to Google any CSS properties you are unfamiliar with.</p>
+
+<h3 id="session-two">Session Two</h3>
+
+<h4 id="objectives-1">Objectives</h4>
+
+<p>Be able to manipulate boxes via css in both quirks and standards mode and describe the different kinds of CSS selectors (element, class, ID, etc.). You should be able to analyze a simple CSS selector.</p>
+
+<ul>
+  <li>Simple page layout with CSS</li>
+  <li>Using unordered lists to create navigation</li>
+  <li>CSS selectors, declarations, properties and values</li>
+  <li>External, embedded and inline style sheets</li>
+  <li>Introduction to the console</li>
+  <li>DOM scripting - selecting items, attaching events, and manipulating HTML</li>
+</ul>
+
+<h5 id="assignment-1">Assignment</h5>
+
+<p>Assignments will be posted on the <a href="https://github.com/front-end-foundations">github repository</a>.</p>
+
+<!-- Continue the homework from last week ("Examine the provided homework samples for inspiration and try your hand at redesigning the page using the CSS techniques described in class).
+Add a JavaScript/CSS powered popover window to your page. Be sure to review (and try it yourself) the simple documentation for addEventListener, querySelector, and classList. -->
+
+<h3 id="session-three">Session Three</h3>
+
+<h4 id="objectives-2">Objectives</h4>
+
+<p>At this point you should be very comfortable with the differences between CLASS and ID styles and know how to use them effectively. In this class we review list-based menus and expand our use of lists to include definition lists and floats.</p>
+
+<p>Reset Stylesheets
+Reviewing Floats
+Styling unordered, ordered and definition lists
+DOM scripting continued - more on events and HTML manipulation.</p>
+
+<h5 id="assignment-2">Assignment</h5>
+
+<p>Assignments will be posted on the <a href="https://github.com/front-end-foundations">github repository</a>.</p>
+
+<h3 id="session-four">Session Four</h3>
+
+<h4 id="objectives-3">Objectives</h4>
+
+<p>Understand basic design patterns for CSS multi column page layouts using CSS. Understand why absolute positioning is not a recommended solution for page layout in most cases. Basic Terminal use for web designers.</p>
+
+<p>floats vs. absolute positioning for layouts
+margins and gutters
+min- and max-width properties
+the overflow property
+using the terminal on Mac to navigate and perform simple tasks</p>
+
+<h5 id="assignment-3">Assignment</h5>
+
+<p>Assignments will be posted on the <a href="https://github.com/front-end-foundations">github repository</a>.</p>
+
+<!-- Midterm time! Files are located here. http://daniel.deverell.com/css-files/_midterm-files.zip. You need to select one layout from the samples, write HTML for the content (.txt files are provided for convenience), and create CSS to match the layout. Be sure to use the css white-space property: white-space: pre; for the poetry where appropriate. -->
+
+<h3 id="session-five">Session Five</h3>
+
+<h4 id="objectives-4">Objectives</h4>
+
+<p>In this session we continue working on styling a complete page and introduce “tooling” using Node Package Manager to perform simple tasks such as automatically refreshing the browser using Browser Sync.</p>
+
+<p>NodeJS’s package manager NPM
+Responsive images and media
+Clearfix, floats and Flexbox</p>
+
+<h5 id="assignment-4">Assignment</h5>
+
+<p>Assignments will be posted on the <a href="https://github.com/front-end-foundations">github repository</a>.</p>
+
+<!-- Continue with your midterms
+Read (and follow along in your test editor) this article on CSS Grids
+See how far you can get in Grid Garden
+Watch an intro to Node Package Manager -->
+
+<h3 id="session-six">Session Six</h3>
+
+<h4 id="objectives-5">Objectives</h4>
+
+<p>Expand on your knowledge of selectors in order to avoid unnecessarily complex HTML constructs and maintain semantic goodness. Understand the concept of progressive enhancement. Using web services to include custom fonts on your web page.</p>
+
+<p>“Classitis” - an overabundance of classes and how to avoid it using…
+Child and first child selectors
+Adjacent sibling combinators
+nth child selectors</p>
+
+<h5 id="assignment-5">Assignment</h5>
+
+<p>Assignments will be posted on the <a href="https://github.com/front-end-foundations">github repository</a>.</p>
+
+<!-- Edit the css for the Basilica site so the header and navigation work on a small screen using CSS Grid, SASS and Scout-App. Pay attention to the popover window. Try to avoid any horizontal scroll bars. -->
+
+<h3 id="session-seven">Session Seven</h3>
+
+<h4 id="objectives-6">Objectives</h4>
+
+<p>In this class we review css Flexbox and introduce css Grid syntax for page and page element layout.</p>
+
+<p>Grids in graphic design and web development
+A gentle introduction to GIT and Github
+Writing and processing SASS</p>
+
+<h5 id="assignment-6">Assignment</h5>
+
+<p>Install GIT on your laptop
+Carefully follow the tutorial on Github
+Create an account on Github
+Review the process used to set up this project and continue to add JavaScript for the video player
+Upload your results to Github and send me a link</p>
+
+<h3 id="session-eight">Session Eight</h3>
+
+<h4 id="objectives-7">Objectives</h4>
+
+<p>An examination of advanced CSS3, vendor specific properties, typography, and CSS for the mobile web.</p>
+
+<p>CSS Media Queries
+Media Queries and multi-column layout
+Mobile first design methodologies
+Animation with CSS - CSS3 transforms and transitions</p>
+
+<h5 id="assignment-7">Assignment</h5>
+
+<p>Start on your final projects. There are very few requirements for this project other than it must be a web page or series of web pages that incorporate the concepts and techniques covered in class.</p>
+
+<p>It is not required that you prepare a specific number of pages. Depending on the design goals, one good template could suffice for many pages and it is possible to spend as much time on a single page as on an entire site.</p>
+
+<p>Making the page “mobile friendly” is required as is at least one instance of DOM scripting.</p>
+
+<h3 id="session-nine">Session Nine</h3>
+
+<h4 id="objectives-8">Objectives</h4>
+
+<p>Understand the importance of the Document Object Model (DOM), the concept of separating style, content and behavior). An overview of JavaScript it works with CSS to create interactive effects.</p>
+
+<p>Advanced DOM scripting
+Unobtrusive scripting
+Designing for accessibility</p>
+
+<h5 id="assignment-8">Assignment</h5>
+
+<p>Continue on your final projects.</p>
+
+<h3 id="session-ten">Session Ten</h3>
+
+<h4 id="objectives-9">Objectives</h4>
+
+<p>Understand the basic building blocks of HTML forms and how to style them:</p>
+
+<p>The HTML form tag and form processing
+HTML inputs tags
+CSS properties and pseudo selectors for forms and form validation</p>
+
+<p>Assignment:
+Final projects due. Final project review.</p>
+:ET
